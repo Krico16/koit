@@ -1,0 +1,23 @@
+{
+    "Header":{
+        "title": "Koit Network"
+    },
+    "Team":[
+        {
+            "nick":"player",
+            "skin":"player",
+            "discordTag":""
+        },
+        {
+            "nick":"player",
+            "skin":"player",
+            "discordTag":""
+        },
+        {
+            "nick":"player",
+            "skin":"player",
+            "discordTag":""
+        }
+    ]
+}
+
