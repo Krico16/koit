@@ -4,19 +4,19 @@
     },
     "Team":[
         {
-            "nick":"player",
-            "skin":"player",
-            "discordTag":""
+            "nick":"EdgarGDE",
+            "skin":"EdgarGDE",
+            "discordTag":"EdgarGDE#4261"
         },
         {
-            "nick":"player",
-            "skin":"player",
-            "discordTag":""
+            "nick":"VincentMX",
+            "skin":"VincentMX",
+            "discordTag":"Vincent.Cardenas#0001"
         },
         {
-            "nick":"player",
-            "skin":"player",
-            "discordTag":""
+            "nick":"KricoMC",
+            "skin":"kricoMC",
+            "discordTag":"Krico#6431"
         }
     ]
 }

@@ -10,7 +10,9 @@ export const Team = (props) => {
                         props.data ? 
                         props.data.map((e, i)=>(
                             <div className="col-md-3 col-sm-4 team">
-                                {e.nick}
+                                <img src={`https://minotar.net/avatar/${e.skin}/64`} alt="asd" className="team-image" />
+                                <h4>{e.nick}</h4>
+                                <h5>{e.discordTag}</h5>
                             </div>
                         )) : 'loading'
                     }
